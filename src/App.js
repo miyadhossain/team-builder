@@ -1,13 +1,13 @@
-
-import './App.css';
+import NavBar from './components/Nav Bar/NavBar';
 import PlayerList from './components/Player List/PlayerList';
+import './components/Nav Bar/NavBar.css';
 
 
 function App() {
   return (
-    <div className="">
-      <header className="">
-      <h1>BPL AUCTION</h1>
+    <div>
+      <header>
+      <NavBar></NavBar>
       </header>
       <PlayerList></PlayerList>
     </div>

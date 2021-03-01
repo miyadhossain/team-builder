@@ -1,0 +1,16 @@
+/* nav bar style */
+.auctionNav {
+    font-size: 30px;
+    font-weight: 600;
+}
+.auction {
+    color: #97a4af;
+}
+.auction-nav-link {
+    color: lightslategray;
+    font-weight: 600;
+}
+.auction-hover:hover a {
+    background: linear-gradient(#d3dde7, #aac0d6);
+    border-radius: 5px;
+}

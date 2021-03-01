@@ -14,8 +14,10 @@ const PlayerList = () => {
     setPlayerInfo(playerData)
   }, [])
 
+  // button handler
   const selectHandleButton = (info) => {
     const newCart = [...playerCart, info];
+    console.log(newCart);
     setPlayerCart(newCart);
   }
   return (
@@ -23,7 +25,6 @@ const PlayerList = () => {
       <Row>
         <Col md={10}>
           <div className="playerList">
-            <h1>Player list</h1>
             {
                 playerInfo.map(info => <Player key={info.id} info={info} selectHandleButton={selectHandleButton}></Player>)
             }
