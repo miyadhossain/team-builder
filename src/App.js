@@ -8,6 +8,7 @@ function App() {
     <div>
       <header>
       <NavBar></NavBar>
+      <h4 className="text-center mt-3">Select Players</h4>
       </header>
       <PlayerList></PlayerList>
     </div>
