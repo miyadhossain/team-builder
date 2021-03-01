@@ -1,0 +1,113 @@
+[{
+  "id": 1,
+  "name": "Tamim Iqbal",
+  "age": "31 years",
+  "playRole": "Opening batsman",
+  "batStyle": "Left-hand bat",
+  "salary": 55000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg"
+}, {
+  "id": 2,
+  "name": "Liton Das",
+  "age": "26 years",
+  "playRole": "Wicketkeeper batsman",
+  "batStyle": "Right-hand bat",
+  "salary": 40000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg"
+}, {
+  "id": 3,
+  "name": "Mehidy Hasan Miraz",
+  "age": "23 years",
+  "playRole": "Allrounder",
+  "batStyle": "Right-hand bat",
+  "salary": 43000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg"
+}, {
+  "id": 4,
+  "name": "Imrul Kayes",
+  "age": "34 years",
+  "playRole": "Opening batsman",
+  "batStyle": "Left-hand bat",
+  "salary": 37000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263597.jpg"
+}, {
+  "id": 5,
+  "name": "Shakib Al Hasan",
+  "age": "33 years",
+  "playRole": "Allrounder",
+  "batStyle": "Left-hand bat",
+  "salary": 60000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg"
+}, {
+  "id": 6,
+  "name": "Mahmudullah Riyad",
+  "age": "35 years",
+  "playRole": "Allrounder",
+  "batStyle": "Right-hand bat",
+  "salary": 58000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg"
+}, {
+  "id": 7,
+  "name": "Mushfiqur Rahim",
+  "age": "35 years",
+  "playRole": "Wicketkeeper batsman",
+  "batStyle": "Right-hand bat",
+  "salary": 59000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg"
+}, {
+  "id": 8,
+  "name": "Mashrafe Mortaza",
+  "age": "37 years",
+  "playRole": "Bowler",
+  "batStyle": "Right-hand bat",
+  "salary": 62000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg"
+}, {
+  "id": 9,
+  "name": "Taskin Ahmed",
+  "age": "25 years",
+  "playRole": "Bowler",
+  "batStyle": "Left-hand bat",
+  "salary": 35000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg"
+}, {
+  "id": 10,
+  "name": "Mustafizur Rahman",
+  "age": "25 years",
+  "playRole": "Bowler",
+  "batStyle": "Left-hand bat",
+  "salary": 53000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg"
+}, {
+  "id": 11,
+  "name": "Rubel Hossain",
+  "age": "31 years",
+  "playRole": "Bowler",
+  "batStyle": "Right-hand bat",
+  "salary": 34000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg"
+}, {
+  "id": 12,
+  "name": "Mohammad Saifuddin",
+  "age": "24 years",
+  "playRole": "Bowling allrounder",
+  "batStyle": "Left-hand bat",
+  "salary": 40000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg"
+}, {
+  "id": 13,
+  "name": "Al-Amin Hossain",
+  "age": "31 years",
+  "playRole": "Bowler",
+  "batStyle": "Right-hand bat",
+  "salary": 35000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302973.jpg"
+}, {
+  "id": 14,
+  "name": "Shafiul Islam",
+  "age": "31 years",
+  "playRole": "Bowler",
+  "batStyle": "Right-hand bat",
+  "salary": 33000,
+  "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263591.jpg"
+}]
